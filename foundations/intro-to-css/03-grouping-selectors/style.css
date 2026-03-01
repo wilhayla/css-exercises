@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.click {
+    background-color: #3c3c44;
+    color: white;
+}
+
+.noclick {
+    background-color: #d1ce1d;
+    color: white;
+}
+
+.click, .noclick {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+button {
+    border: none;
+    border-radius: 6px;
+}
